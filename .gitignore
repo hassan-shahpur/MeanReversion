@@ -51,8 +51,6 @@ htmlcov/
 *.pickle
 *.h5
 *.hdf5
-data/
-datasets/
 cache/
 
 # Logs and outputs
